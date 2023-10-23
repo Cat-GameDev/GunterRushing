@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: defb43be6a9b19d4d8d4e88769a47a0c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bit_Greatsword:black_greatsword
+    100004: Bit_Greatsword:black_greatsword_root
+    100006: Bit_Greatsword:blue_greatsword
+    100008: Bit_Greatsword:blue_greatsword_root
+    100010: Bit_Greatsword:green_greatsword
+    100012: Bit_Greatsword:green_greatsword_root
+    100014: Bit_Greatsword:orange_greatsword
+    100016: Bit_Greatsword:orange_greatsword_root
+    100018: Bit_Greatsword:pink_greatsword
+    100020: Bit_Greatsword:pink_greatsword_root
+    100022: Bit_Greatsword:pueple_greatsword_root
+    100024: Bit_Greatsword:purple_greatsword
+    100026: Bit_Greatsword:red_greatsword
+    100028: Bit_Greatsword:red_greatsword_root
+    100030: Bit_Greatsword:skyblue_greatsword
+    100032: Bit_Greatsword:skyblue_greatsword_root
+    100034: Bit_Greatsword:white_greatsword
+    100036: Bit_Greatsword:white_greatsword_root
+    100038: Bit_Greatsword:yellow_greatsword
+    100040: Bit_Greatsword:yellow_greatsword_root
+    400000: //RootNode
+    400002: Bit_Greatsword:black_greatsword
+    400004: Bit_Greatsword:black_greatsword_root
+    400006: Bit_Greatsword:blue_greatsword
+    400008: Bit_Greatsword:blue_greatsword_root
+    400010: Bit_Greatsword:green_greatsword
+    400012: Bit_Greatsword:green_greatsword_root
+    400014: Bit_Greatsword:orange_greatsword
+    400016: Bit_Greatsword:orange_greatsword_root
+    400018: Bit_Greatsword:pink_greatsword
+    400020: Bit_Greatsword:pink_greatsword_root
+    400022: Bit_Greatsword:pueple_greatsword_root
+    400024: Bit_Greatsword:purple_greatsword
+    400026: Bit_Greatsword:red_greatsword
+    400028: Bit_Greatsword:red_greatsword_root
+    400030: Bit_Greatsword:skyblue_greatsword
+    400032: Bit_Greatsword:skyblue_greatsword_root
+    400034: Bit_Greatsword:white_greatsword
+    400036: Bit_Greatsword:white_greatsword_root
+    400038: Bit_Greatsword:yellow_greatsword
+    400040: Bit_Greatsword:yellow_greatsword_root
+    2300000: Bit_Greatsword:black_greatsword
+    2300002: Bit_Greatsword:blue_greatsword
+    2300004: Bit_Greatsword:green_greatsword
+    2300006: Bit_Greatsword:orange_greatsword
+    2300008: Bit_Greatsword:pink_greatsword
+    2300010: Bit_Greatsword:purple_greatsword
+    2300012: Bit_Greatsword:red_greatsword
+    2300014: Bit_Greatsword:skyblue_greatsword
+    2300016: Bit_Greatsword:white_greatsword
+    2300018: Bit_Greatsword:yellow_greatsword
+    2300020: //RootNode
+    3300000: Bit_Greatsword:black_greatsword
+    3300002: Bit_Greatsword:blue_greatsword
+    3300004: Bit_Greatsword:green_greatsword
+    3300006: Bit_Greatsword:orange_greatsword
+    3300008: Bit_Greatsword:pink_greatsword
+    3300010: Bit_Greatsword:purple_greatsword
+    3300012: Bit_Greatsword:red_greatsword
+    3300014: Bit_Greatsword:skyblue_greatsword
+    3300016: Bit_Greatsword:white_greatsword
+    3300018: Bit_Greatsword:yellow_greatsword
+    3300020: //RootNode
+    4300000: Bit_Greatsword:black_greatsword
+    4300002: Bit_Greatsword:blue_greatsword
+    4300004: Bit_Greatsword:red_greatsword
+    4300006: Bit_Greatsword:pink_greatsword
+    4300008: Bit_Greatsword:white_greatsword
+    4300010: Bit_Greatsword:green_greatsword
+    4300012: Bit_Greatsword:orange_greatsword
+    4300014: Bit_Greatsword:purple_greatsword
+    4300016: Bit_Greatsword:skyblue_greatsword
+    4300018: Bit_Greatsword:yellow_greatsword
+    4300020: Bit_Greatsword
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

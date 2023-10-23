@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 8dcbef8e99b6a724cb066793c537feb7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bit_Sword:black_sword
+    100004: Bit_Sword:black_sword_root
+    100006: Bit_Sword:blue_sword
+    100008: Bit_Sword:blue_sword_root
+    100010: Bit_Sword:green_sword
+    100012: Bit_Sword:green_sword_root
+    100014: Bit_Sword:orange_sword
+    100016: Bit_Sword:orange_sword_root
+    100018: Bit_Sword:pink_sword
+    100020: Bit_Sword:pink_sword_root
+    100022: Bit_Sword:pueple_sword_root
+    100024: Bit_Sword:purple_sword
+    100026: Bit_Sword:red_sword
+    100028: Bit_Sword:red_sword_root
+    100030: Bit_Sword:skyblue_sword
+    100032: Bit_Sword:skyblue_sword_root
+    100034: Bit_Sword:white_sword
+    100036: Bit_Sword:white_sword_root
+    100038: Bit_Sword:yellow_sword
+    100040: Bit_Sword:yellow_sword_root
+    400000: //RootNode
+    400002: Bit_Sword:black_sword
+    400004: Bit_Sword:black_sword_root
+    400006: Bit_Sword:blue_sword
+    400008: Bit_Sword:blue_sword_root
+    400010: Bit_Sword:green_sword
+    400012: Bit_Sword:green_sword_root
+    400014: Bit_Sword:orange_sword
+    400016: Bit_Sword:orange_sword_root
+    400018: Bit_Sword:pink_sword
+    400020: Bit_Sword:pink_sword_root
+    400022: Bit_Sword:pueple_sword_root
+    400024: Bit_Sword:purple_sword
+    400026: Bit_Sword:red_sword
+    400028: Bit_Sword:red_sword_root
+    400030: Bit_Sword:skyblue_sword
+    400032: Bit_Sword:skyblue_sword_root
+    400034: Bit_Sword:white_sword
+    400036: Bit_Sword:white_sword_root
+    400038: Bit_Sword:yellow_sword
+    400040: Bit_Sword:yellow_sword_root
+    2300000: Bit_Sword:black_sword
+    2300002: Bit_Sword:blue_sword
+    2300004: Bit_Sword:green_sword
+    2300006: Bit_Sword:orange_sword
+    2300008: Bit_Sword:pink_sword
+    2300010: Bit_Sword:purple_sword
+    2300012: Bit_Sword:red_sword
+    2300014: Bit_Sword:skyblue_sword
+    2300016: Bit_Sword:white_sword
+    2300018: Bit_Sword:yellow_sword
+    2300020: //RootNode
+    3300000: Bit_Sword:black_sword
+    3300002: Bit_Sword:blue_sword
+    3300004: Bit_Sword:green_sword
+    3300006: Bit_Sword:orange_sword
+    3300008: Bit_Sword:pink_sword
+    3300010: Bit_Sword:purple_sword
+    3300012: Bit_Sword:red_sword
+    3300014: Bit_Sword:skyblue_sword
+    3300016: Bit_Sword:white_sword
+    3300018: Bit_Sword:yellow_sword
+    3300020: //RootNode
+    4300000: Bit_Sword:black_sword
+    4300002: Bit_Sword:red_sword
+    4300004: Bit_Sword:blue_sword
+    4300006: Bit_Sword:yellow_sword
+    4300008: Bit_Sword:green_sword
+    4300010: Bit_Sword:white_sword
+    4300012: Bit_Sword:orange_sword
+    4300014: Bit_Sword:purple_sword
+    4300016: Bit_Sword:skyblue_sword
+    4300018: Bit_Sword:pink_sword
+    4300020: Bit_Sword
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

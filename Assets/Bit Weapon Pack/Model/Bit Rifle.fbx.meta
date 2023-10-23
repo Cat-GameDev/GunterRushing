@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: d6fa3e9aa7adb0e42b40b4f7ae4c3082
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: black_rifle
+    100004: black_rifle_root
+    100006: blue_rifle
+    100008: blue_rifle_root
+    100010: green_rifle
+    100012: green_rifle_root
+    100014: orange_rifle
+    100016: orange_rifle_root
+    100018: pink_rifle
+    100020: pink_rifle_root
+    100022: purple_rifle
+    100024: purple_rifle_root
+    100026: red_rifle
+    100028: red_rifle_root
+    100030: skyblue_rifle
+    100032: skybule_rifle_root
+    100034: white_rifle
+    100036: white_rifle_root
+    100038: yellow_rifle
+    100040: yellow_rifle_root
+    400000: //RootNode
+    400002: black_rifle
+    400004: black_rifle_root
+    400006: blue_rifle
+    400008: blue_rifle_root
+    400010: green_rifle
+    400012: green_rifle_root
+    400014: orange_rifle
+    400016: orange_rifle_root
+    400018: pink_rifle
+    400020: pink_rifle_root
+    400022: purple_rifle
+    400024: purple_rifle_root
+    400026: red_rifle
+    400028: red_rifle_root
+    400030: skyblue_rifle
+    400032: skybule_rifle_root
+    400034: white_rifle
+    400036: white_rifle_root
+    400038: yellow_rifle
+    400040: yellow_rifle_root
+    2300000: black_rifle
+    2300002: blue_rifle
+    2300004: green_rifle
+    2300006: orange_rifle
+    2300008: pink_rifle
+    2300010: purple_rifle
+    2300012: red_rifle
+    2300014: skyblue_rifle
+    2300016: white_rifle
+    2300018: yellow_rifle
+    2300020: //RootNode
+    3300000: black_rifle
+    3300002: blue_rifle
+    3300004: green_rifle
+    3300006: orange_rifle
+    3300008: pink_rifle
+    3300010: purple_rifle
+    3300012: red_rifle
+    3300014: skyblue_rifle
+    3300016: white_rifle
+    3300018: yellow_rifle
+    3300020: //RootNode
+    4300000: black_rifle
+    4300002: yellow_rifle
+    4300004: white_rifle
+    4300006: skyblue_rifle
+    4300008: red_rifle
+    4300010: purple_rifle
+    4300012: pink_rifle
+    4300014: orange_rifle
+    4300016: green_rifle
+    4300018: blue_rifle
+    4300020: Bit_Rifle
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

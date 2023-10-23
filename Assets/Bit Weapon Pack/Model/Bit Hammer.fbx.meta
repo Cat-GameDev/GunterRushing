@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 2631f34b25674f847a38d7565362255c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bit_Hammer:black_hammer
+    100004: Bit_Hammer:black_hammer_root
+    100006: Bit_Hammer:blue_hammer
+    100008: Bit_Hammer:blue_hammer_root
+    100010: Bit_Hammer:green_hammer
+    100012: Bit_Hammer:green_hammer_root
+    100014: Bit_Hammer:orange_hammer
+    100016: Bit_Hammer:orange_hammer_root
+    100018: Bit_Hammer:pink_hammer
+    100020: Bit_Hammer:pink_hammer_root
+    100022: Bit_Hammer:purple_hammer
+    100024: Bit_Hammer:purple_hammer_root
+    100026: Bit_Hammer:red_hammer_root
+    100028: Bit_Hammer:red_hummer
+    100030: Bit_Hammer:skyblue_hammer
+    100032: Bit_Hammer:skyblue_hammer_root
+    100034: Bit_Hammer:white_hammer
+    100036: Bit_Hammer:white_hammer_root
+    100038: Bit_Hammer:yellow_hammer
+    100040: Bit_Hammer:yellow_hammer_root
+    400000: //RootNode
+    400002: Bit_Hammer:black_hammer
+    400004: Bit_Hammer:black_hammer_root
+    400006: Bit_Hammer:blue_hammer
+    400008: Bit_Hammer:blue_hammer_root
+    400010: Bit_Hammer:green_hammer
+    400012: Bit_Hammer:green_hammer_root
+    400014: Bit_Hammer:orange_hammer
+    400016: Bit_Hammer:orange_hammer_root
+    400018: Bit_Hammer:pink_hammer
+    400020: Bit_Hammer:pink_hammer_root
+    400022: Bit_Hammer:purple_hammer
+    400024: Bit_Hammer:purple_hammer_root
+    400026: Bit_Hammer:red_hammer_root
+    400028: Bit_Hammer:red_hummer
+    400030: Bit_Hammer:skyblue_hammer
+    400032: Bit_Hammer:skyblue_hammer_root
+    400034: Bit_Hammer:white_hammer
+    400036: Bit_Hammer:white_hammer_root
+    400038: Bit_Hammer:yellow_hammer
+    400040: Bit_Hammer:yellow_hammer_root
+    2300000: Bit_Hammer:black_hammer
+    2300002: Bit_Hammer:blue_hammer
+    2300004: Bit_Hammer:green_hammer
+    2300006: Bit_Hammer:orange_hammer
+    2300008: Bit_Hammer:pink_hammer
+    2300010: Bit_Hammer:purple_hammer
+    2300012: Bit_Hammer:red_hummer
+    2300014: Bit_Hammer:skyblue_hammer
+    2300016: Bit_Hammer:white_hammer
+    2300018: Bit_Hammer:yellow_hammer
+    2300020: //RootNode
+    3300000: Bit_Hammer:black_hammer
+    3300002: Bit_Hammer:blue_hammer
+    3300004: Bit_Hammer:green_hammer
+    3300006: Bit_Hammer:orange_hammer
+    3300008: Bit_Hammer:pink_hammer
+    3300010: Bit_Hammer:purple_hammer
+    3300012: Bit_Hammer:red_hummer
+    3300014: Bit_Hammer:skyblue_hammer
+    3300016: Bit_Hammer:white_hammer
+    3300018: Bit_Hammer:yellow_hammer
+    3300020: //RootNode
+    4300000: Bit_Hammer:black_hammer
+    4300002: Bit_Hammer:red_hummer
+    4300004: Bit_Hammer:pink_hammer
+    4300006: Bit_Hammer:blue_hammer
+    4300008: Bit_Hammer:yellow_hammer
+    4300010: Bit_Hammer:green_hammer
+    4300012: Bit_Hammer:purple_hammer
+    4300014: Bit_Hammer:orange_hammer
+    4300016: Bit_Hammer:skyblue_hammer
+    4300018: Bit_Hammer:white_hammer
+    4300020: Bit_Hammer
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
